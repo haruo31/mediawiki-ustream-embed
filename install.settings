@@ -1,0 +1,6 @@
+require_once( "$IP/extensions/ustream-embed/ustream-embed.php" );
+
+$wgUstreamEmbedURL = 'http://www.ustream.tv/embed';
+$wgUstreamEmbedDefaultWidth = 608;
+$wgUstreamEmbedDefaultHeight = 368;
+
